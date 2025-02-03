@@ -1,5 +1,5 @@
 # Multiplication Tables
-Barney code : Multiplication tables
+Barney code #17 : Multiplication tables
 
 [Multiplication tables video](https://user-images.githubusercontent.com/120074055/207731485-327c1fd2-28d6-4b6c-be20-21e109966bee.mp4)
 
