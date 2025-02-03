@@ -13,7 +13,7 @@ void setup() {
   // Set size to 640x640, fps at 30 and title
   size(640, 640);
   frameRate(10);
-  surface.setTitle("Multiplication tables");
+  surface.setTitle("Barney codes #17 : Multiplication tables");
 
   // Set the colors to be on the color wheel, stroke weight of 2 and text size of 16
   colorMode(HSB, 360, 255, 255);
